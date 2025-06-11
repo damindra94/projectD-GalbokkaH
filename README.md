@@ -43,7 +43,7 @@ It includes functions for adding, removing, tracking and viewing tasks and habit
   1.Upload the folowwing to the HPC CLuster
    * Project-HPC-DGalbokkaH.py
    * Your .csv or .txt data files
-   * run_project,sh (job submission script)
+   * damindra_job_script (job submission script)
   
   2. Log into the cluster and submit the job:
   3. Monitor the job
