@@ -38,10 +38,10 @@ It includes functions for adding, removing, tracking and viewing tasks and habit
     * **daily_report(days_keys, habits_week)** to display all incomplete and completed tasks and habits
     * **main_menu** to provide the user the possibilty to toggle through the options
  
-    * 
+      
   ## For HPC use (Cluster Execution)
-  1.Upload the folowwing to the HPC CLuster
-   * Project-HPC-DGalbokkaH.py
+  1.Upload the following to the HPC CLuster
+   * Project-HPC-dgalbokkah.py
    * Your .csv or .txt data files
    * damindra_job_script (job submission script)
   
